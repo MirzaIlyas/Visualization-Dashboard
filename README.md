@@ -28,3 +28,11 @@ Format-specific Analysis: Analyze Kohli's performance in different formats of th
 Ease of Use: Designed with a user-friendly interface, allowing cricket enthusiasts, analysts, and researchers to explore and derive insights effortlessly.
 
 Customizable Reports: Customize reports based on specific metrics, timeframes, or comparative analyses to suit individual preferences.
+
+
+
+
+
+Contributions and suggestions to enhance this analysis are welcome! Feel free to make changes, and create pull requests to contribute additional features, data enhancements, or improved visualizations.
+
+Explore, analyze, and gain deeper insights into the phenomenal career of Virat Kohli using this Power BI project!
